@@ -1,6 +1,6 @@
 # Hi, I'm Murphy
 
-I build robots that live in the physical world.
+I build systems and robots that live in the physical world.
 
 My background is behavioural science — I came to robotics because what I've
 always cared about is interaction: what makes something feel alive, safe, and
@@ -8,14 +8,15 @@ worth talking to. Now I spend my days building exactly that.
 
 ## Currently building
 
-- **A desktop companion robot** — a personality "head" that talks, looks at
-  you, and moves: a real-time voice loop (streaming STT → LLM → TTS, ~2s
-  end-to-end), muscle-aware lip sync rendered on a chest display, head pose
-  that follows the conversation — running across a Mac brain and ESP32-C3
-  body over USB. The lip-sync engine is being open-sourced as
-  [robot-lipsync](https://github.com/Muurrphy/robot-lipsync).
-- **An underwater exploration robot** — early stage, because the ocean is the
-  other physical world worth exploring.
+- **An underwater robot** — still in development and being tested in my
+  bathtub.
+- **A ground robot** — built and living with me at home. It moves through my
+  space every day, more like a companion than a lab prototype.
+- **Lilyput, a system for life at home** — my main project, exploring a more
+  coherent way for people and intelligent devices to live together at home.
+
+I also open-sourced the lip-sync work that grew out of these experiments as
+[robot-lipsync](https://github.com/Muurrphy/robot-lipsync).
 
 ## Tools I made for myself and use daily
 
@@ -33,4 +34,3 @@ I document everything: engineering logs with symptoms, root causes, fixes,
 and costs — including the dead ends. Solved problems should become a craft
 manual, not vapor. Most of what I know about building I learned by shipping
 one robot, breaking it, and writing down why.
-
