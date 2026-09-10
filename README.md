@@ -1,36 +1,33 @@
 # Hi, I'm Murphy
 
-I build systems and robots that live in the physical world.
+I build intelligent systems and robots that live in the physical world.
 
-My background is behavioural science — I came to robotics because what I've
-always cared about is interaction: what makes something feel alive, safe, and
-worth talking to. Now I spend my days building exactly that.
+My background is behavioural science. I work at the intersection of human
+behaviour, product design, and robotics — turning observations about how people
+live and interact into working prototypes.
 
 ## Currently building
 
-- **An underwater robot** — still in development and being tested in my
-  bathtub.
-- **A ground robot** — built and living with me at home. It moves through my
-  space every day, more like a companion than a lab prototype.
-- **Lilyput, a system for life at home** — my main project, exploring a more
-  coherent way for people and intelligent devices to live together at home.
+- **A desktop humanoid robot** — an embodied AI prototype that combines natural
+  conversation, memory, everyday task flows, and physical expression.
+- **A ground robot** — a sensor-driven mobile robot for tracking, obstacle
+  avoidance, and companion-like interaction.
+- **An underwater robot** — an ongoing prototype exploring movement and sensing
+  in underwater environments.
 
-I also open-sourced the lip-sync work that grew out of these experiments as
-[robot-lipsync](https://github.com/Muurrphy/robot-lipsync).
+[View selected robot demos](https://muurrphy.github.io/desktop-robot-murphy-demo/?project=desk)
 
-## Tools I made for myself and use daily
+## Open source
 
+- [robot-lipsync](https://github.com/Muurrphy/robot-lipsync) — real-time
+  multilingual lip sync for robots and constrained displays, with English,
+  Mandarin, and Spanish support.
 - [dont-reinvent-the-wheel](https://github.com/Muurrphy/dont-reinvent-the-wheel)
-  — a Claude skill that searches before it builds and before it debugs:
-  external libraries, my own engineering log, and known dead ends, with an
-  explicit reuse / fork / build verdict.
-- [ai-roundtable](https://github.com/Muurrphy/ai-roundtable) — a Claude skill
-  that runs a grounded, turn-based roundtable between Claude and web ChatGPT
-  through the browser, no API keys.
+  — a reusable engineering workflow for deciding when to reuse, fork, or build.
 
 ## How I work
 
-I document everything: engineering logs with symptoms, root causes, fixes,
-and costs — including the dead ends. Solved problems should become a craft
-manual, not vapor. Most of what I know about building I learned by shipping
-one robot, breaking it, and writing down why.
+I take projects from early product definition through software, electronics,
+CAD, 3D printing, system integration, and demo production. I keep engineering
+logs of symptoms, root causes, fixes, and dead ends so each prototype becomes a
+foundation for the next one.
