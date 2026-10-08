@@ -19,9 +19,10 @@ live and interact into working prototypes.
 
 ## Open source
 
-- [robot-lipsync](https://github.com/Muurrphy/robot-lipsync) — real-time
-  multilingual lip sync for robots and constrained displays, with English,
-  Mandarin, and Spanish support.
+- [Margin](https://github.com/Muurrphy/margin) — a Kindle reading companion
+  and a multilingual screen mouth, usable together or separately.
+- [Expressive Arm](https://github.com/Muurrphy/expressive-arm) — eight recorded
+  SO-101 motion clips and tools for recording, inspecting and replaying them.
 - [dont-reinvent-the-wheel](https://github.com/Muurrphy/dont-reinvent-the-wheel)
   — a reusable engineering workflow for deciding when to reuse, fork, or build.
 
