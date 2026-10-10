@@ -12,8 +12,7 @@ I studied Spanish, then behavioural science, and these days I spend most of my t
 
 ## Open source
 
-- [Margin](https://github.com/Muurrphy/margin) — an AI reading companion for an old Kindle, with a multilingual lip-synced mouth on your phone. [Video](https://muurrphy.github.io/desktop-robot-murphy-demo/?project=margin)
-- [Expressive Arm](https://github.com/Muurrphy/expressive-arm) — eight emotions performed by an SO-101 arm, with the recording tools. [Videos](https://muurrphy.github.io/desktop-robot-murphy-demo/expressions/)
-- [dont-reinvent-the-wheel](https://github.com/Muurrphy/dont-reinvent-the-wheel) — a skill that makes an AI coding assistant search before it builds or debugs.
+- [Bibliothecary](https://github.com/Muurrphy/bibliothecary) — a personal librarian for books, articles and papers, with Telegram, voice discussion, saved reading progress and source-linked notes. [Video](https://muurrphy.github.io/desktop-robot-murphy-demo/?project=margin)
+- [Bipu](https://github.com/Muurrphy/bipu) — an SO-101 robot pet powered by Jev, with Telegram input, eight recorded motions, electronic calls and choreography tools. [Videos](https://muurrphy.github.io/desktop-robot-murphy-demo/expressions/)
 
-[Portfolio and videos](https://muurrphy.github.io/desktop-robot-murphy-demo/portfolio/)
+[Portfolio and videos](https://muurrphy.github.io/desktop-robot-murphy-demo/portfolio/) · [Personal website](https://muurrphy.github.io/)
